@@ -2457,10 +2457,22 @@ input, select, textarea {
 		margin: 0 auto;
 	}
 
+	.albumcover {
+		max-width: 100%;
+	}
+
+	.plasticnancy {
+		max-width: 100%;
+	}
+
 	.nancyinfo {
 		text-align: justify;
 		width: 560px;
 		margin-top: 0px;
+	}
+
+	.sadicospic {
+		max-width: 100%;
 	}
 
 	.sadicosinfo {
@@ -2470,6 +2482,10 @@ input, select, textarea {
 
 	.dealerpic {
 		border-radius: 5%;
+	}
+
+	.logopic {
+		max-width: 100%;
 	}
 
 	.experience1 {
@@ -2568,7 +2584,1065 @@ input, select, textarea {
 		justify-content: center;
 	}
 
+	.comeonvideo {
+		max-width: 100%;
+	}
 
+	.cementariovideo {
+		max-width: 100%;
+	}
+
+	.homevideo {
+		max-width: 100%;
+	}
+
+	.atsea {
+		max-width: 100%;
+	}
+
+	.remembering {
+		max-width: 100%;
+	}
+
+	@media only screen 
+	and (min-device-width: 375px) 
+	and (max-device-width: 667px) 
+	and (-webkit-min-device-pixel-ratio: 2) { 
+  
+				/* Basic */
+
+				body, input, select, textarea {
+					line-height: 1.75em;
+					font-size: 10pt;
+					letter-spacing: 0;
+				}
+	
+				h2, h3, h4, h5, h6 {
+					font-size: 13pt !important;
+				}
+	
+				h2 {
+					line-height: 1.5em;
+				}
+	
+			/* Section/Article */
+	
+				section, article {
+					margin-bottom: 3em;
+				}
+	
+			/* Image */
+	
+				.image.left {
+					width: 25%;
+				}
+	
+			/* Button */
+	
+				.button {
+					width: 100%;
+					font-size: 1.1em;
+					text-align: center;
+					padding: 1em 0 1em 0;
+					border-radius: 8px;
+				}
+
+		.video {
+			display: block;
+			margin: 0 auto;
+		}
+	
+		.albumcover {
+			max-width: 100%;
+		}
+	
+		.plasticnancy {
+			max-width: 100%;
+		}
+	
+		.box.excerpt .image-left {
+			margin-right: 0;
+		}
+
+		.box.excerpt header {
+			margin-left: 32%;
+		}
+
+		.box.excerpt p {
+			clear: both;
+		}
+	
+		.nancyinfo {
+			text-align: justify;
+			width: 560px;
+			margin-top: 0px;
+		}
+	
+		.sadicospic {
+			max-width: 100%;
+		}
+	
+		.sadicosinfo {
+			text-align: justify;
+			width: 667px;
+		}
+	
+		.dealerpic {
+			border-radius: 5%;
+		}
+	
+		.logopic {
+			max-width: 100%;
+		}
+	
+		.experience1 {
+			text-align: justify;
+			width: 667px;
+		}
+	
+		.masonpic {
+			float: left;
+			width: 33.3%;
+			padding: 30px;
+			border-radius: 50px;
+		}
+		
+		.row2::after {
+			content: "";
+			clear: both;
+			display: table;
+		}
+	
+		.educationinfo {
+			text-align: justify;
+			width: 100%;
+	
+		}
+	
+		.sadicosband {
+			text-align: justify;
+			width: 850px;
+		}
+	
+		.joining {
+			text-align: justify;
+			width: 850px;
+		}
+	
+		.polaroids1 {
+			float: left;
+			width: 33.3%;
+			padding: 30px;
+		}
+		.photorow1::after {
+			content: "";
+			clear: both;
+			display: table;
+		}
+	
+		.polaroids2 {
+			float: left;
+			width: 33.3%;
+			padding: 30px;
+		}
+	
+		.photorow2::after {
+			content: "";
+			clear: both;
+			display: table;
+		}
+	
+		.misc {
+			float: left;
+			width: 33.3%;
+			padding: 30px;
+		}
+	
+		.photorow3::after {
+			content: "";
+			clear: both;
+			display: table;
+		}
+	
+		.misc2 {
+			float: left;
+			width: 33.3%;
+			padding: 30px;
+		}
+		.photorow4::after {
+			content: "";
+			clear: both;
+			display: table;
+		}
+	
+		.img-with-text {
+			text-align: justify;
+			width: 450px;
+			text-align: center;
+		}
+		
+		.alex {
+			display: block;
+			margin: 0 auto;
+		}
+	
+		.photographer {
+			display: flex;
+			justify-content: center;
+		}
+	
+		.comeonvideo {
+			max-width: 100%;
+		}
+	
+		.cementariovideo {
+			max-width: 100%;
+		}
+	
+		.homevideo {
+			max-width: 100%;
+		}
+	
+		.atsea {
+			max-width: 100%;
+		}
+	
+		.remembering {
+			max-width: 100%;
+		}
+  }
+
+  @media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3) { 
+
+					/* Basic */
+
+					body, input, select, textarea {
+						line-height: 1.75em;
+						font-size: 10pt;
+						letter-spacing: 0;
+					}
+		
+					h2, h3, h4, h5, h6 {
+						font-size: 13pt !important;
+					}
+		
+					h2 {
+						line-height: 1.5em;
+					}
+		
+				/* Section/Article */
+		
+					section, article {
+						margin-bottom: 3em;
+					}
+		
+				/* Image */
+		
+					.image.left {
+						width: 25%;
+					}
+		
+				/* Button */
+		
+					.button {
+						width: 100%;
+						font-size: 1.1em;
+						text-align: center;
+						padding: 1em 0 1em 0;
+						border-radius: 8px;
+					}
+	
+			.video {
+				display: block;
+				margin: 0 auto;
+			}
+		
+			.albumcover {
+				max-width: 100%;
+			}
+		
+			.plasticnancy {
+				max-width: 100%;
+			}
+		
+			.box.excerpt .image-left {
+				margin-right: 0;
+			}
+	
+			.box.excerpt header {
+				margin-left: 32%;
+			}
+	
+			.box.excerpt p {
+				clear: both;
+			}
+		
+			.nancyinfo {
+				text-align: justify;
+				width: 560px;
+				margin-top: 0px;
+			}
+		
+			.sadicospic {
+				max-width: 100%;
+			}
+		
+			.sadicosinfo {
+				text-align: justify;
+				width: 667px;
+			}
+		
+			.dealerpic {
+				border-radius: 5%;
+			}
+		
+			.logopic {
+				max-width: 100%;
+			}
+		
+			.experience1 {
+				text-align: justify;
+				width: 667px;
+			}
+		
+			.masonpic {
+				float: left;
+				width: 33.3%;
+				padding: 30px;
+				border-radius: 50px;
+			}
+			
+			.row2::after {
+				content: "";
+				clear: both;
+				display: table;
+			}
+		
+			.educationinfo {
+				text-align: justify;
+				width: 100%;
+		
+			}
+		
+			.sadicosband {
+				text-align: justify;
+				width: 850px;
+			}
+		
+			.joining {
+				text-align: justify;
+				width: 850px;
+			}
+		
+			.polaroids1 {
+				float: left;
+				width: 33.3%;
+				padding: 30px;
+			}
+			.photorow1::after {
+				content: "";
+				clear: both;
+				display: table;
+			}
+		
+			.polaroids2 {
+				float: left;
+				width: 33.3%;
+				padding: 30px;
+			}
+		
+			.photorow2::after {
+				content: "";
+				clear: both;
+				display: table;
+			}
+		
+			.misc {
+				float: left;
+				width: 33.3%;
+				padding: 30px;
+			}
+		
+			.photorow3::after {
+				content: "";
+				clear: both;
+				display: table;
+			}
+		
+			.misc2 {
+				float: left;
+				width: 33.3%;
+				padding: 30px;
+			}
+			.photorow4::after {
+				content: "";
+				clear: both;
+				display: table;
+			}
+		
+			.img-with-text {
+				text-align: justify;
+				width: 450px;
+				text-align: center;
+			}
+			
+			.alex {
+				display: block;
+				margin: 0 auto;
+			}
+		
+			.photographer {
+				display: flex;
+				justify-content: center;
+			}
+		
+			.comeonvideo {
+				max-width: 100%;
+			}
+		
+			.cementariovideo {
+				max-width: 100%;
+			}
+		
+			.homevideo {
+				max-width: 100%;
+			}
+		
+			.atsea {
+				max-width: 100%;
+			}
+		
+			.remembering {
+				max-width: 100%;
+			}
+		}
+
+		@media only screen 
+		and (min-device-width: 375px) 
+		and (max-device-width: 812px) 
+		and (-webkit-min-device-pixel-ratio: 3) { 
+	  
+								/* Basic */
+
+								body, input, select, textarea {
+									line-height: 1.75em;
+									font-size: 10pt;
+									letter-spacing: 0;
+								}
+					
+								h2, h3, h4, h5, h6 {
+									font-size: 13pt !important;
+								}
+					
+								h2 {
+									line-height: 1.5em;
+								}
+					
+							/* Section/Article */
+					
+								section, article {
+									margin-bottom: 3em;
+								}
+					
+							/* Image */
+					
+								.image.left {
+									width: 25%;
+								}
+					
+							/* Button */
+					
+								.button {
+									width: 100%;
+									font-size: 1.1em;
+									text-align: center;
+									padding: 1em 0 1em 0;
+									border-radius: 8px;
+								}
+				
+						.video {
+							display: block;
+							margin: 0 auto;
+						}
+					
+						.albumcover {
+							max-width: 100%;
+						}
+					
+						.plasticnancy {
+							max-width: 100%;
+						}
+					
+						.box.excerpt .image-left {
+							margin-right: 0;
+						}
+				
+						.box.excerpt header {
+							margin-left: 32%;
+						}
+				
+						.box.excerpt p {
+							clear: both;
+						}
+					
+						.nancyinfo {
+							text-align: justify;
+							width: 560px;
+							margin-top: 0px;
+						}
+					
+						.sadicospic {
+							max-width: 100%;
+						}
+					
+						.sadicosinfo {
+							text-align: justify;
+							width: 667px;
+						}
+					
+						.dealerpic {
+							border-radius: 5%;
+						}
+					
+						.logopic {
+							max-width: 100%;
+						}
+					
+						.experience1 {
+							text-align: justify;
+							width: 667px;
+						}
+					
+						.masonpic {
+							float: left;
+							width: 33.3%;
+							padding: 30px;
+							border-radius: 50px;
+						}
+						
+						.row2::after {
+							content: "";
+							clear: both;
+							display: table;
+						}
+					
+						.educationinfo {
+							text-align: justify;
+							width: 100%;
+					
+						}
+					
+						.sadicosband {
+							text-align: justify;
+							width: 850px;
+						}
+					
+						.joining {
+							text-align: justify;
+							width: 850px;
+						}
+					
+						.polaroids1 {
+							float: left;
+							width: 33.3%;
+							padding: 30px;
+						}
+						.photorow1::after {
+							content: "";
+							clear: both;
+							display: table;
+						}
+					
+						.polaroids2 {
+							float: left;
+							width: 33.3%;
+							padding: 30px;
+						}
+					
+						.photorow2::after {
+							content: "";
+							clear: both;
+							display: table;
+						}
+					
+						.misc {
+							float: left;
+							width: 33.3%;
+							padding: 30px;
+						}
+					
+						.photorow3::after {
+							content: "";
+							clear: both;
+							display: table;
+						}
+					
+						.misc2 {
+							float: left;
+							width: 33.3%;
+							padding: 30px;
+						}
+						.photorow4::after {
+							content: "";
+							clear: both;
+							display: table;
+						}
+					
+						.img-with-text {
+							text-align: justify;
+							width: 450px;
+							text-align: center;
+						}
+						
+						.alex {
+							display: block;
+							margin: 0 auto;
+						}
+					
+						.photographer {
+							display: flex;
+							justify-content: center;
+						}
+					
+						.comeonvideo {
+							max-width: 100%;
+						}
+					
+						.cementariovideo {
+							max-width: 100%;
+						}
+					
+						.homevideo {
+							max-width: 100%;
+						}
+					
+						.atsea {
+							max-width: 100%;
+						}
+					
+						.remembering {
+							max-width: 100%;
+						}
+	  				}
+
+					  @media screen 
+					  and (device-width: 320px) 
+					  and (device-height: 640px) 
+					  and (-webkit-device-pixel-ratio: 3) {
+					
+														/* Basic */
+
+														body, input, select, textarea {
+															line-height: 1.75em;
+															font-size: 10pt;
+															letter-spacing: 0;
+														}
+											
+														h2, h3, h4, h5, h6 {
+															font-size: 13pt !important;
+														}
+											
+														h2 {
+															line-height: 1.5em;
+														}
+											
+													/* Section/Article */
+											
+														section, article {
+															margin-bottom: 3em;
+														}
+											
+													/* Image */
+											
+														.image.left {
+															width: 25%;
+														}
+											
+													/* Button */
+											
+														.button {
+															width: 100%;
+															font-size: 1.1em;
+															text-align: center;
+															padding: 1em 0 1em 0;
+															border-radius: 8px;
+														}
+										
+												.video {
+													display: block;
+													margin: 0 auto;
+												}
+											
+												.albumcover {
+													max-width: 100%;
+												}
+											
+												.plasticnancy {
+													max-width: 100%;
+												}
+											
+												.box.excerpt .image-left {
+													margin-right: 0;
+												}
+										
+												.box.excerpt header {
+													margin-left: 32%;
+												}
+										
+												.box.excerpt p {
+													clear: both;
+												}
+											
+												.nancyinfo {
+													text-align: justify;
+													width: 560px;
+													margin-top: 0px;
+												}
+											
+												.sadicospic {
+													max-width: 100%;
+												}
+											
+												.sadicosinfo {
+													text-align: justify;
+													width: 667px;
+												}
+											
+												.dealerpic {
+													border-radius: 5%;
+												}
+											
+												.logopic {
+													max-width: 100%;
+												}
+											
+												.experience1 {
+													text-align: justify;
+													width: 667px;
+												}
+											
+												.masonpic {
+													float: left;
+													width: 33.3%;
+													padding: 30px;
+													border-radius: 50px;
+												}
+												
+												.row2::after {
+													content: "";
+													clear: both;
+													display: table;
+												}
+											
+												.educationinfo {
+													text-align: justify;
+													width: 100%;
+											
+												}
+											
+												.sadicosband {
+													text-align: justify;
+													width: 850px;
+												}
+											
+												.joining {
+													text-align: justify;
+													width: 850px;
+												}
+											
+												.polaroids1 {
+													float: left;
+													width: 33.3%;
+													padding: 30px;
+												}
+												.photorow1::after {
+													content: "";
+													clear: both;
+													display: table;
+												}
+											
+												.polaroids2 {
+													float: left;
+													width: 33.3%;
+													padding: 30px;
+												}
+											
+												.photorow2::after {
+													content: "";
+													clear: both;
+													display: table;
+												}
+											
+												.misc {
+													float: left;
+													width: 33.3%;
+													padding: 30px;
+												}
+											
+												.photorow3::after {
+													content: "";
+													clear: both;
+													display: table;
+												}
+											
+												.misc2 {
+													float: left;
+													width: 33.3%;
+													padding: 30px;
+												}
+												.photorow4::after {
+													content: "";
+													clear: both;
+													display: table;
+												}
+											
+												.img-with-text {
+													text-align: justify;
+													width: 450px;
+													text-align: center;
+												}
+												
+												.alex {
+													display: block;
+													margin: 0 auto;
+												}
+											
+												.photographer {
+													display: flex;
+													justify-content: center;
+												}
+											
+												.comeonvideo {
+													max-width: 100%;
+												}
+											
+												.cementariovideo {
+													max-width: 100%;
+												}
+											
+												.homevideo {
+													max-width: 100%;
+												}
+											
+												.atsea {
+													max-width: 100%;
+												}
+											
+												.remembering {
+													max-width: 100%;
+												}
+					}
+
+					@media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 4) {
+
+	/* Basic */
+
+	body, input, select, textarea {
+		line-height: 1.75em;
+		font-size: 10pt;
+		letter-spacing: 0;
+	}
+
+	h2, h3, h4, h5, h6 {
+		font-size: 13pt !important;
+	}
+
+	h2 {
+		line-height: 1.5em;
+	}
+
+/* Section/Article */
+
+	section, article {
+		margin-bottom: 3em;
+	}
+
+/* Image */
+
+	.image.left {
+		width: 25%;
+	}
+
+/* Button */
+
+	.button {
+		width: 100%;
+		font-size: 1.1em;
+		text-align: center;
+		padding: 1em 0 1em 0;
+		border-radius: 8px;
+	}
+
+.video {
+display: block;
+margin: 0 auto;
+}
+
+.albumcover {
+max-width: 100%;
+}
+
+.plasticnancy {
+max-width: 100%;
+}
+
+.box.excerpt .image-left {
+margin-right: 0;
+}
+
+.box.excerpt header {
+margin-left: 32%;
+}
+
+.box.excerpt p {
+clear: both;
+}
+
+.nancyinfo {
+text-align: justify;
+width: 560px;
+margin-top: 0px;
+}
+
+.sadicospic {
+max-width: 100%;
+}
+
+.sadicosinfo {
+text-align: justify;
+width: 667px;
+}
+
+.dealerpic {
+border-radius: 5%;
+}
+
+.logopic {
+max-width: 100%;
+}
+
+.experience1 {
+text-align: justify;
+width: 667px;
+}
+
+.masonpic {
+float: left;
+width: 33.3%;
+padding: 30px;
+border-radius: 50px;
+}
+
+.row2::after {
+content: "";
+clear: both;
+display: table;
+}
+
+.educationinfo {
+text-align: justify;
+width: 100%;
+
+}
+
+.sadicosband {
+text-align: justify;
+width: 850px;
+}
+
+.joining {
+text-align: justify;
+width: 850px;
+}
+
+.polaroids1 {
+float: left;
+width: 33.3%;
+padding: 30px;
+}
+.photorow1::after {
+content: "";
+clear: both;
+display: table;
+}
+
+.polaroids2 {
+float: left;
+width: 33.3%;
+padding: 30px;
+}
+
+.photorow2::after {
+content: "";
+clear: both;
+display: table;
+}
+
+.misc {
+float: left;
+width: 33.3%;
+padding: 30px;
+}
+
+.photorow3::after {
+content: "";
+clear: both;
+display: table;
+}
+
+.misc2 {
+float: left;
+width: 33.3%;
+padding: 30px;
+}
+.photorow4::after {
+content: "";
+clear: both;
+display: table;
+}
+
+.img-with-text {
+text-align: justify;
+width: 450px;
+text-align: center;
+}
+
+.alex {
+display: block;
+margin: 0 auto;
+}
+
+.photographer {
+display: flex;
+justify-content: center;
+}
+
+.comeonvideo {
+max-width: 100%;
+}
+
+.cementariovideo {
+max-width: 100%;
+}
+
+.homevideo {
+max-width: 100%;
+}
+
+.atsea {
+max-width: 100%;
+}
+
+.remembering {
+max-width: 100%;
+}
+}
 
 	
 	
