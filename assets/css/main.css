@@ -2650,14 +2650,18 @@ input, select, textarea {
 		.video {
 			display: block;
 			margin: 0 auto;
+			max-width: 667px;
+			min-width: 375px;
 		}
 	
 		.albumcover {
-			max-width: 100%;
+			max-width: 667px;
+			min-width: 375px;
 		}
 	
 		.plasticnancy {
-			max-width: 100%;
+			max-width: 667px;
+			min-width: 375px;
 		}
 	
 		.box.excerpt .image-left {
@@ -2673,31 +2677,35 @@ input, select, textarea {
 		}
 	
 		.nancyinfo {
-			text-align: justify;
-			width: 560px;
+			max-width: 667px;
+			min-width: 375px;
 			margin-top: 0px;
 		}
 	
 		.sadicospic {
-			max-width: 100%;
+			max-width: 667px;
+			min-width: 375px;
 		}
 	
 		.sadicosinfo {
-			text-align: justify;
-			width: 667px;
+			max-width: 667px;
+			min-width: 375px;
 		}
 	
 		.dealerpic {
 			border-radius: 5%;
+			max-width: 667px;
+			min-width: 375px;
 		}
 	
 		.logopic {
-			max-width: 100%;
+			max-width: 667px;
+			min-width: 375px;
 		}
 	
 		.experience1 {
-			text-align: justify;
-			width: 667px;
+			max-width: 667px;
+			min-width: 375px;
 		}
 	
 		.masonpic {
@@ -2711,22 +2719,24 @@ input, select, textarea {
 			content: "";
 			clear: both;
 			display: table;
+			max-width: 667px;
+			min-width: 375px;
 		}
 	
 		.educationinfo {
-			text-align: justify;
-			width: 100%;
+			max-width: 667px;
+			min-width: 375px;
 	
 		}
 	
 		.sadicosband {
-			text-align: justify;
-			width: 850px;
+			max-width: 667px;
+			min-width: 375px;
 		}
 	
 		.joining {
-			text-align: justify;
-			width: 850px;
+			max-width: 667px;
+			min-width: 375px;
 		}
 	
 		.polaroids1 {
@@ -2792,23 +2802,28 @@ input, select, textarea {
 		}
 	
 		.comeonvideo {
-			max-width: 100%;
+			max-width: 667px;
+			min-width: 375px;
 		}
 	
 		.cementariovideo {
-			max-width: 100%;
+			max-width: 667px;
+			min-width: 375px;
 		}
 	
 		.homevideo {
-			max-width: 100%;
+			max-width: 667px;
+			min-width: 375px;
 		}
 	
 		.atsea {
-			max-width: 100%;
+			max-width: 667px;
+			min-width: 375px;
 		}
 	
 		.remembering {
-			max-width: 100%;
+			max-width: 667px;
+			min-width: 375px;
 		}
   }
 
